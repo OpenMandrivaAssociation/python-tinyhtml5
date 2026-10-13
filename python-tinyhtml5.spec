@@ -1,6 +1,6 @@
 Name:		python-tinyhtml5
 Version:	2.1.0
-Release:	1
+Release:	2
 Summary:	HTML parser based on the WHATWG HTML specification
 License:	MIT
 Group:		Development/Python
